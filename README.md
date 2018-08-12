@@ -1,2 +1,2 @@
 # Avalon
-The new ACN/Universe website merging with the blog and rules
+The new Universe website merging with the blog and rules
